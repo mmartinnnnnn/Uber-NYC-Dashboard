@@ -46,5 +46,5 @@ El dataset proviene del repositorio de datos públicos de prueba de Streamlit (`
 
 ### 1. Clona el repositorio
 ```bash
-git clone [https://github.com/TU_USUARIO/nyc-uber-dashboard.git](https://github.com/TU_USUARIO/nyc-uber-dashboard.git)
-cd nyc-uber-dashboard
+git clone https://github.com/mmartinnnnnn/Uber-NYC-Dashboard.git
+cd Uber-NYC-Dashboard
