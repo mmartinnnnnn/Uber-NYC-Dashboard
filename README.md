@@ -1,8 +1,8 @@
-# 🚕 NYC Uber Rides Dashboard
+# NYC Uber Rides Dashboard
 
 Dashboard interactivo desarrollado en **Python** y **Streamlit** para la exploración y visualización de solicitudes de viajes de Uber en la ciudad de Nueva York (Septiembre de 2014).
 
-🚀 **Demo en vivo:** [Probar Dashboard Interactivo](https://nyc-uber-dashboard.streamlit.app/)
+**Demo en vivo:** [Probar Dashboard Interactivo](https://nyc-uber-dashboard.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -10,13 +10,13 @@ Dashboard interactivo desarrollado en **Python** y **Streamlit** para la explora
 
 ---
 
-## 📌 Descripción General
+## Descripción General
 
 Esta aplicación web interactiva permite analizar la distribución espacio-temporal de los viajes de Uber en NYC. El objetivo es identificar **patrones de demanda por hora del día y día de la semana**, visualizar la **concentración geográfica** de viajes en un mapa interactivo y consultar métricas agregadas en tiempo real a través de un panel organizado en pestañas.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje:** Python
 - **Análisis y Manipulación de Datos:** Pandas
@@ -25,7 +25,7 @@ Esta aplicación web interactiva permite analizar la distribución espacio-tempo
 
 ---
 
-## ⚙️ Funcionalidades del Dashboard
+## Funcionalidades del Dashboard
 
 - **Métricas Generales (KPIs):**
   - Registros cargados en la muestra.
@@ -44,13 +44,13 @@ Esta aplicación web interactiva permite analizar la distribución espacio-tempo
 
 ---
 
-## 📊 Fuente de Datos
+## Fuente de Datos
 
 El dataset proviene del repositorio de datos públicos de prueba de Streamlit (`uber-raw-data-sep14.csv.gz`), el cual contiene registros con marcas de tiempo (`date/time`), latitud (`lat`), longitud (`lon`) y base operativa (`base`).
 
 ---
 
-## 🚀 Cómo Ejecutar Localmente
+## Cómo Ejecutar Localmente
 
 ### 1. Clona el repositorio
 ```bash
