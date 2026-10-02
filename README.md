@@ -55,6 +55,7 @@ El dataset proviene del repositorio de datos públicos de prueba de Streamlit (`
 ```bash
 git clone [https://github.com/mmartinnnnnn/Uber-NYC-Dashboard.git](https://github.com/mmartinnnnnn/Uber-NYC-Dashboard.git)
 cd Uber-NYC-Dashboard
+```
 
 ### 2. Instala las dependencias
 ```bash
