@@ -11,7 +11,7 @@ Dashboard interactivo desarrollado en **Python** y **Streamlit** para la explora
 ---
 
 ## 📌 Descripción General
-
+*
 Esta aplicación web interactiva permite analizar la distribución espacio-temporal de los viajes de Uber en NYC. El objetivo es identificar **patrones de demanda por hora del día y día de la semana**, visualizar la **concentración geográfica** de viajes en un mapa interactivo y consultar métricas agregadas en tiempo real a través de un panel organizado en pestañas.
 ---
 
