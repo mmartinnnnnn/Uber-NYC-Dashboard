@@ -48,3 +48,14 @@ El dataset proviene del repositorio de datos públicos de prueba de Streamlit (`
 ```bash
 git clone [https://github.com/mmartinnnnnn/Uber-NYC-Dashboard.git](https://github.com/mmartinnnnnn/Uber-NYC-Dashboard.git)
 cd Uber-NYC-Dashboard
+```
+
+### 2. Instala las dependencias
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Ejecuta la aplicación
+```bash
+streamlit run uber_pickups.py
+```
