@@ -2,7 +2,7 @@
 
 Dashboard interactivo desarrollado en **Python** y **Streamlit** para la exploración y visualización de solicitudes de viajes de Uber en la ciudad de Nueva York (Septiembre de 2014).
 
-🚀 **Demo en vivo:** [Probar Dashboard Interactivo](https://tu-app.streamlit.app)
+🚀 **Demo en vivo:** [Probar Dashboard Interactivo](https://nyc-uber-dashboard.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-FF4B4B?style=flat&logo=streamlit&logoColor=white)
